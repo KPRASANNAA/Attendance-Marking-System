@@ -11,15 +11,6 @@ This project was initially developed to address real-world attendance inefficien
 
 > ⚠️ **Note:** This is a collaborative team project developed by undergraduate engineering students as part of research, innovation, and product development efforts.
 
-### Team Members
-- Hari – ECE (IoT)
-- Prasannaa – ECE (IoT)
-- Laxmipathy – EEE
-- Aswini – Robotics
-
-Institution: Lovely Professional University  
-Organization: Optic Pi Techno Labs
-
 ---
 
 ## 🚀 Problem Statement
