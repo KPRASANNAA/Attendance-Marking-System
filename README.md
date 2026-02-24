@@ -1,4 +1,4 @@
-# Smart Attendance Marking System
+# Smart Attendance Marking System(Anti-spoof)
 
 ## 📌 Overview
 The Smart Attendance Marking System is an AI-powered attendance solution designed to automate and secure classroom attendance using facial recognition and anti-spoofing mechanisms.
